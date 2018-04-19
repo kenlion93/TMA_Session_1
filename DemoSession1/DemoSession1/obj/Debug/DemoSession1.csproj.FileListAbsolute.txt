@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DemoSession1\DemoSession1\bin\Debug\DemoSession1.exe.config
+C:\Users\Administrator\Desktop\DemoSession1\DemoSession1\bin\Debug\DemoSession1.exe
+C:\Users\Administrator\Desktop\DemoSession1\DemoSession1\bin\Debug\DemoSession1.pdb
+C:\Users\Administrator\Desktop\DemoSession1\DemoSession1\obj\Debug\DemoSession1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DemoSession1\DemoSession1\obj\Debug\DemoSession1.exe
+C:\Users\Administrator\Desktop\DemoSession1\DemoSession1\obj\Debug\DemoSession1.pdb
